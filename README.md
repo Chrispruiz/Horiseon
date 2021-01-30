@@ -10,4 +10,10 @@ Horiseon ia a marketing site that uses search various tactics to create an onlin
 
 ![Screenshot](assets/images/01-html-css-git-homework-demo-1.png)
 
+[URL of deployment](https://chrispruiz.github.io/Horiseon/)
+
+[GitHub Repository Link](https://github.com/Chrispruiz/Horiseon.git)
+
+
+
 
