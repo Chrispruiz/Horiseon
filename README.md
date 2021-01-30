@@ -1,7 +1,7 @@
-Horiseon ia a marketing site that uses search various tactics to create an online presence using search engine optimization, online reputation management, and social media.
+Horiseon is a marketing site that uses search various tactics to create an online presence using search engine optimization, online reputation management, and social media.
 
 1. The div elements were replaced with semantic HTML elements such as nav and header.
-2. Added relevent comments and spaced certain elements so the code was more readable and in proper order.
+2. Added relevant comments and spaced certain elements so the code is more readable and in proper order.
 3. Added "atl" attributes to images for screen readers.
 4. Clearly labeled header and footer.
 5. Added a clear title to tab and fixed link issues.
